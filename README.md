@@ -29,8 +29,8 @@
 ## Estatísticas do GitHub
  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiveaAlmeida&show_icons=true&theme=default" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiveaAlmeida&layout=compact&theme=default" alt="Linguagens mais usadas" height="165"/>
+  <img src="https://github-readme-stats-nine-vert.vercel.app/api?username=NiveaAlmeida&show_icons=true&theme=default" alt="Estatísticas do GitHub" height="165"/>
+  <img src="https://github-readme-stats-nine-vert.vercel.app/api/top-langs/?username=NiveaAlmeida&layout=compact&theme=default" alt="Linguagens mais usadas" height="165"/>
 </p>
 
 ## Como me encontrar
