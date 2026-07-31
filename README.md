@@ -3,9 +3,13 @@
 ## Sobre mim
 
 🎓 Graduando em Ciência de Dados e IA na Universidade Cimatec
+
 🐍 Foco atual em Python, com planos de expandir meu conhecimento para outras linguagens de programação.
+
 🌱 Pretendo expandir para outras linguagens de programação além do Python
+
 💼 Em busca de inserção no mercado de trabalho, com interesse em **dados** e **desenvolvimento fullstack ou back-end**.
+
 📂 Documento minha evolução em Python neste repositório: [(https://github.com/NiveaAlmeida/minha-jornada-python)]
 
 ## Tecnologias e ferramentas
