@@ -1,4 +1,4 @@
-# Muito prazer! Seja Bem vindo(a) ao meu perfil
+# Muito prazer! Seja bem vindo(a) ao meu perfil
 
 ## Sobre mim
 
